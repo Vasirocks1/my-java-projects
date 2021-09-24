@@ -18,7 +18,7 @@ public class Varargs {
 	public static void main(String[] args)
 	{
 		Calc obj = new Calc();
-		System.out.println(obj.add(4,5,9,3,6,5));
+		System.out.println(obj.add(4,10,9,3,6,5));
 
 	}
 
